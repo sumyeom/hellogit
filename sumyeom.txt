@@ -1,0 +1,7 @@
+#includt <iostream>
+using namespace std;
+int main(void){
+	int a ;
+	cout<<"馬馬馬馬";
+}
+	
